@@ -1,0 +1,5 @@
+env
+*.cfg
+*.log
+__pycache__
+tmp
