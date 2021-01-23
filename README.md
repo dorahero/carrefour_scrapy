@@ -1,4 +1,4 @@
-# foodpanda_scrapy
+# carrefour_scrapy
 - [x] scrapy
 - [x] proxy pool
 - [x] docker
